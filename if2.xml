@@ -27,6 +27,11 @@
         <statement name="DO0">
           <block type="movement_right" id="176"></block>
         </statement>
+        <value name="IF1">
+          <block type="sensor_object" id="396">
+            <field name="OBJECT">LEFTFRONT</field>
+          </block>
+        </value>
         <statement name="DO1">
           <block type="movement_left" id="389"></block>
         </statement>
